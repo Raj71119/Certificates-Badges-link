@@ -20,7 +20,9 @@
 
 
 
-[Badges earned}(https://www.credly.com/users/rajeev-anand.a2c19c5c/badges)
+
+
+[Badges earned](https://www.credly.com/users/rajeev-anand.a2c19c5c/badges)
 
 # Certificates-Badges-link
 Here is the links of ceriticates and badges earned by me
