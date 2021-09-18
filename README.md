@@ -1,3 +1,7 @@
+[Coursera Databases & SQL for Data Science with Python.pdf](https://github.com/Raj71119/Certificates-Badges-link/files/7189150/Coursera.Databases.SQL.for.Data.Science.with.Python.pdf)
+
+
+
 [Coursera Data Science Methedology Certificate.pdf](https://github.com/Raj71119/Certificates-Badges-link/files/7143008/Coursera.Data.Science.Methedology.Certificate.pdf)
 
 
